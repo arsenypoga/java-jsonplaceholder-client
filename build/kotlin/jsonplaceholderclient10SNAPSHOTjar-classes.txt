@@ -1,0 +1,1 @@
+D:\code\java\jsonplaceholder-client\build\classes\kotlin\main\illyalaifu\JsonplaceholderClient.class;D:\code\java\jsonplaceholder-client\build\classes\kotlin\main\illyalaifu\entities\Post.class;D:\code\java\jsonplaceholder-client\build\classes\kotlin\main\illyalaifu\entities\Todo.class
